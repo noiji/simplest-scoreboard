@@ -1,5 +1,5 @@
-# simplest_scoreboard
-## The Scoreboard for All - the android application with minimal features.
+# Simplest Scoreboard
+## The scoreboard for ALL - the android application with minimal features.
 
 ## [UI]
 
